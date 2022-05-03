@@ -1,0 +1,23 @@
+body{
+    background-color:lightcoral;
+    font-family:  verdana;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#box-central{
+    font-size: 1.4em;
+
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
